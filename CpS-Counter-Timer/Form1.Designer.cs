@@ -121,7 +121,7 @@
             // 
             this.label6.Location = new System.Drawing.Point(1137, 28);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(115, 41);
+            this.label6.Size = new System.Drawing.Size(114, 41);
             this.label6.TabIndex = 5;
             this.label6.Text = "0";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
