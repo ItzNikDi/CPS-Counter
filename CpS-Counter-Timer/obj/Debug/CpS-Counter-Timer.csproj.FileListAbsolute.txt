@@ -1,0 +1,10 @@
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\bin\Debug\CpS-Counter-Timer.exe.config
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\bin\Debug\CpS-Counter-Timer.exe
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\bin\Debug\CpS-Counter-Timer.pdb
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS-Counter-Timer.csprojAssemblyReference.cache
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS_Counter_Timer.Form1.resources
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS_Counter_Timer.Properties.Resources.resources
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS-Counter-Timer.csproj.GenerateResource.cache
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS-Counter-Timer.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS-Counter-Timer.exe
+C:\Users\Nikola\Documents\#code\C#\CpS-Counter-with-Timer\CpS-Counter-Timer\CpS-Counter-Timer\obj\Debug\CpS-Counter-Timer.pdb
